@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: play-review-panel
+Version: 0.1.0
+Summary: Google Play review panel and backtest for listed consumer-internet companies
+Requires-Python: >=3.11
+Requires-Dist: google-play-scraper>=1.2.7
+Requires-Dist: pandas>=2.2
+Requires-Dist: numpy>=1.26
+Requires-Dist: scipy>=1.11
+Requires-Dist: statsmodels>=0.14
+Requires-Dist: matplotlib>=3.8
+Requires-Dist: yfinance>=0.2.40
+Requires-Dist: vaderSentiment>=3.3.2
+Requires-Dist: pyarrow>=15
+Requires-Dist: tabulate>=0.9

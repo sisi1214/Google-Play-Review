@@ -1,0 +1,15 @@
+.venv/
+.uv-cache/
+.uv-python/
+.mpl/
+__pycache__/
+*.pyc
+data/reviews.sqlite*
+data/*.parquet
+data/panel_weekly.csv
+data/coverage.csv
+data/analysis/
+data/prices/*.csv
+logs/
+reports/figures/*.png
+data_probe_5k.json

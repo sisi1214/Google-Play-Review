@@ -1,0 +1,33 @@
+company_id,company,ticker,yahoo_symbol,exchange,country,sector,app_name,package_id,developer,parent,app_role,benchmark_symbol,notes
+grab,Grab Holdings Limited,GRAB,GRAB,NASDAQ,Singapore,Ride-hailing & delivery,Grab - Taxi & Food Delivery,com.grabtaxi.passenger,Grab Holdings,Grab Holdings Limited,primary,SPY,Super-app across rides food and payments in Southeast Asia.
+sea,Sea Limited,SE,SE,NYSE,Singapore,E-commerce & gaming,Shopee 11.11 Big Sale,com.shopee.sg,Shopee,Sea Limited,primary,SPY,Shopee is Sea's e-commerce arm; SG package is the original storefront and the review pool is global.
+uber,Uber Technologies Inc.,UBER,UBER,NYSE,USA,Ride-hailing & delivery,"Uber: Rides, eats, hotels",com.ubercab,"Uber Technologies, Inc.",Uber Technologies Inc.,primary,SPY,Primary rider app; driver app excluded.
+doordash,DoorDash Inc.,DASH,DASH,NASDAQ,USA,Local delivery,"DoorDash: Food, Grocery, More",com.dd.doordash,DoorDash,DoorDash Inc.,primary,SPY,
+spotify,Spotify Technology S.A.,SPOT,SPOT,NYSE,Sweden,Audio streaming,"Spotify: Music and Podcasts",com.spotify.music,Spotify AB,Spotify Technology S.A.,primary,SPY,
+duolingo,Duolingo Inc.,DUOL,DUOL,NASDAQ,USA,Education technology,"Duolingo: Learn Languages",com.duolingo,Duolingo,Duolingo Inc.,primary,SPY,
+airbnb,Airbnb Inc.,ABNB,ABNB,NASDAQ,USA,Travel,Airbnb,com.airbnb.android,Airbnb,Airbnb Inc.,primary,SPY,
+booking,Booking Holdings Inc.,BKNG,BKNG,NASDAQ,USA,Travel,"Booking.com: Hotels & Travel",com.booking,Booking.com Hotels & Vacation Rentals,Booking Holdings Inc.,primary,SPY,
+ebay,eBay Inc.,EBAY,EBAY,NASDAQ,USA,E-commerce,eBay online shopping & selling,com.ebay.mobile,eBay Mobile,eBay Inc.,primary,SPY,
+etsy,"Etsy, Inc.",ETSY,ETSY,NASDAQ,USA,E-commerce,"Etsy: Shop from Real People",com.etsy.android,"Etsy, Inc",Etsy Inc.,primary,SPY,
+netflix,"Netflix, Inc.",NFLX,NFLX,NASDAQ,USA,Streaming,Netflix,com.netflix.mediaclient,"Netflix, Inc.","Netflix, Inc.",primary,SPY,
+meta,Meta Platforms Inc.,META,META,NASDAQ,USA,Social,Instagram,com.instagram.android,Instagram,Meta Platforms Inc.,primary,SPY,Instagram is used as the consumer social proxy; Facebook app excluded to avoid double counting.
+alphabet,Alphabet Inc.,GOOGL,GOOGL,NASDAQ,USA,Search & video,YouTube,com.google.android.youtube,Google LLC,Alphabet Inc.,primary,SPY,
+amazon,"Amazon.com, Inc.",AMZN,AMZN,NASDAQ,USA,E-commerce & cloud,Amazon Shopping,com.amazon.mShop.android.shopping,Amazon Mobile LLC,"Amazon.com, Inc.",primary,SPY,
+shopify,Shopify Inc.,SHOP,SHOP,NYSE,Canada,E-commerce infrastructure,"Shop: Track, Pay, Discover",com.shopify.arrive,Shopify Inc.,Shopify Inc.,primary,SPY,Shop is Shopify's consumer shopping app rather than the merchant admin app.
+pinterest,"Pinterest, Inc.",PINS,PINS,NYSE,USA,Social,Pinterest,com.pinterest,Pinterest,Pinterest Inc.,primary,SPY,
+snap,Snap Inc.,SNAP,SNAP,NYSE,USA,Social,Snapchat,com.snapchat.android,Snap Inc,Snap Inc.,primary,SPY,
+reddit,"Reddit, Inc.",RDDT,RDDT,NYSE,USA,Social,Reddit,com.reddit.frontpage,reddit Inc.,Reddit Inc.,primary,SPY,
+roblox,Roblox Corporation,RBLX,RBLX,NYSE,USA,Gaming,Roblox,com.roblox.client,Roblox Corporation,Roblox Corporation,primary,SPY,
+match,"Match Group, Inc.",MTCH,MTCH,NASDAQ,USA,Dating,Tinder: Match & Meet Singles,com.tinder,Tinder LLC,Match Group Inc.,primary,SPY,
+bumble,Bumble Inc.,BMBL,BMBL,NASDAQ,USA,Dating,Bumble Dating App: Meet & Date,com.bumble.app,Bumble Holding Limited,Bumble Inc.,primary,SPY,
+zillow,Zillow Group Inc.,ZG,ZG,NASDAQ,USA,Real estate,Zillow: Homes for Sale & Rent,com.zillow.android.zillowmap,Zillow Group,Zillow Group Inc.,primary,SPY,
+carvana,Carvana Co.,CVNA,CVNA,NYSE,USA,Used autos,Carvana: Buy/Sell Used Cars,com.carvana.carvana,Carvana,Carvana Co.,primary,SPY,
+coinbase,Coinbase Global Inc.,COIN,COIN,NASDAQ,USA,Crypto & fintech,"Coinbase: Buy Crypto & Stocks",com.coinbase.android,Coinbase Inc,Coinbase Global Inc.,primary,SPY,
+block,"Block, Inc.",XYZ,XYZ,NYSE,USA,Fintech,Cash App,com.squareup.cash,"Block, Inc.",Block Inc.,primary,SPY,Block changed its ticker from SQ to XYZ; Yahoo carries the full history under XYZ.
+alibaba,Alibaba Group Holding Limited,BABA,BABA,NYSE,China,E-commerce & cloud,Taobao,com.taobao.taobao,Taobao,Alibaba Group Holding Limited,primary,MCHI,Taobao is Alibaba's core China marketplace; ADR trades in USD.
+pdd,PDD Holdings Inc.,PDD,PDD,NASDAQ,China,E-commerce,"Temu: Shop Like a Billionaire",com.einnovation.temu,Temu,PDD Holdings Inc.,primary,MCHI,Temu is PDD's international marketplace. Pinduoduo's China package is not distributed in the US storefront and its review stream is stale.
+jd,"JD.com, Inc.",JD,JD,NASDAQ,China,E-commerce,JD.com,com.jingdong.app.mall,京东,"JD.com, Inc.",primary,MCHI,
+tencent,Tencent Holdings Limited,0700.HK,0700.HK,HKEX,China,Social & gaming,WeChat,com.tencent.mm,WeChat,Tencent Holdings Limited,primary,2800.HK,
+coupang,"Coupang, Inc.",CPNG,CPNG,NYSE,South Korea,E-commerce,Coupang - Mobile Shopping,com.coupang.mobile,Coupang Corp.,Coupang Inc.,primary,EWY,
+mercadolibre,"MercadoLibre, Inc.",MELI,MELI,NASDAQ,Argentina,E-commerce & fintech,Mercado Libre: Compras online,com.mercadolibre,Mercado Libre,MercadoLibre Inc.,primary,SPY,
+wise,Wise plc,WISE.L,WISE.L,LSE,UK,Fintech,Wise: International Transfers,com.transferwise.android,Wise Payments Ltd.,Wise plc,primary,^FTSE,
